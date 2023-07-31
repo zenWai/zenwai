@@ -1,28 +1,16 @@
-<!--
-**zenWai/zenwai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ###
-
-<h1 align="left"><img height="88" src="https://media.tenor.com/g-XDmB5YGLMAAAAi/computer-gaming.gif"  /> About Me
-  
+<h1 
+  align="left"
+  >
+  <img height="88" src="https://github.com/zenWai/zenwai/blob/main/computer-gaming.gif"
+    /> 
+  About Me
 </h1>
 
 ###
 
-<h4 align="left">I am F. Presa from &#127477;&#127481; :portugal:Portugal currently living in Germany</h4>
+<h4 align="left">I am F. Presa from Portugal <img height="20" src="https://github.com/zenWai/zenwai/blob/main/portugal%20(1).png"/> and currently living in Germany <img height="20" src="https://github.com/zenWai/zenwai/blob/main/germany%20(1).png"/>
+</h4>
 <div alight="center">
   Developer Tech Enthusiast and Coder
 </div>
