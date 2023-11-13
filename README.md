@@ -9,8 +9,8 @@
 
 ###
 
-<h4 align="left">I am F. Presa from Portugal <img height="20" src="https://github.com/zenWai/zenwai/blob/main/portugal%20(1).png"/> and currently living in Germany <img height="20" src="https://github.com/zenWai/zenwai/blob/main/germany%20(1).png"/>
-</h4>
+<p align="left">I am F. Presa from Portugal <img height="20" src="https://github.com/zenWai/zenwai/blob/main/portugal%20(1).png"/> and currently living in Germany <img height="20" src="https://github.com/zenWai/zenwai/blob/main/germany%20(1).png"/>
+</p>
 <div alight="center">
   Developer Tech Enthusiast and Coder
 </div>
