@@ -1,13 +1,8 @@
-<div align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hey+there!+%F0%9F%91%8B;Welcome+to+my+profile!" alt="Typing SVG" />
+
+<div align="center"> <img height="88" src="https://github.com/zenWai/zenwai/blob/main/computer-gaming.gif" /> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hey+there!+%F0%9F%91%8B;Welcome+to+my+profile!" alt="Typing SVG" /> 
 </div>
 
-<h1 
-  align="left"
-  >
-  <img height="88" src="https://github.com/zenWai/zenwai/blob/main/computer-gaming.gif"
-    /> 
-  About Me
-</h1>
+
 
 From interactive websites to cross-platform apps for Windows and Mac, I build efficient solutions with a focus on user experience.
 
