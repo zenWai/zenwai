@@ -44,10 +44,10 @@
   
 <div align="left">
   
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/zenwai/Smart-Image-Shrink">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenwai&theme=dracula&repo=Smart-Image-Shrink" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/zenwai/nextjs14-next-authv5-app-router">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenwai&theme=dracula&repo=nextjs14-next-authv5-app-router" />
 </a>
 
