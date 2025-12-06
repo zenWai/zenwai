@@ -4,8 +4,8 @@
 
   
 <div align="center">
-<a href="https://github.com/KasRoudra/github-stats-card" alt="github-stats-card"><img src="https://kasroudra-stats-card.onrender.com/repo?user=zenWai&repo=Smart-Image-Shrink&theme=nightowl&layout=compact&hide_stat=changes"/></a>
-<a href="https://github.com/KasRoudra/github-stats-card" alt="github-stats-card"><img src="https://kasroudra-stats-card.onrender.com/repo?user=zenWai&repo=nextjs14-next-authv5-app-router&theme=nightowl&layout=compact&hide_stat=changes"/></a>
+<a href="https://github.com/zenWai/Smart-Image-Shrink" alt="github-stats-card"><img src="https://kasroudra-stats-card.onrender.com/repo?user=zenWai&repo=Smart-Image-Shrink&theme=nightowl&layout=compact&hide_stat=changes"/></a>
+<a href="https://github.com/zenWai/nextjs14-next-authv5-app-router" alt="github-stats-card"><img src="https://kasroudra-stats-card.onrender.com/repo?user=zenWai&repo=nextjs14-next-authv5-app-router&theme=nightowl&layout=compact&hide_stat=changes"/></a>
 </div>
 
 <div align="center">
