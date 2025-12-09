@@ -4,8 +4,8 @@
 
   
 <div align="center">
-<a href="https://github.com/zenWai/Smart-Image-Shrink" ><img src="https://stats-cards.toil.cc/v1/pin/github?username=zenwai&repo=Smart-Image-Shrink&theme=catppuccin-macchiato&show_owner=false" /></a>
-<a href="https://github.com/zenWai/nextjs14-next-authv5-app-router" ><img src="https://stats-cards.toil.cc/v1/pin/github?username=zenwai&repo=nextjs14-next-authv5-app-router&theme=catppuccin-macchiato&show_owner=false" /></a>
+<a href="https://github.com/zenWai/Smart-Image-Shrink" ><img src="https://stats-cards.toil.cc/v1/pin/github?username=zenwai&repo=Smart-Image-Shrink&theme=kanagawa-wave&show_owner=false"/></a>
+<a href="https://github.com/zenWai/nextjs14-next-authv5-app-router" ><img src="https://stats-cards.toil.cc/v1/pin/github?username=zenwai&repo=nextjs14-next-authv5-app-router&theme=kanagawa-wave&show_owner=false" /></a>
 </div>
 
 <div align="center">
