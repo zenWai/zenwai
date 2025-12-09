@@ -20,3 +20,4 @@
   </div>
 
 https://threejs-pendant.vercel.app
+https://iphone-three-js-component.vercel.app
